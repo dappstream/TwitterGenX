@@ -20,5 +20,5 @@ DappStream offers cutting-edge solutions for Telegram automation, email workflow
 
 ## Connect with us
 
-Website: DappStream.shop
+Website: https://DappStream.shop
 Telegram: @DappStream
